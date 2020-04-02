@@ -6,6 +6,18 @@ I am currently working on my thesis and the subject is about of control autonomo
 On the other hand, I am mechatronic department manager of Arioobarzan company in Iran that is working 
 on the manufacturing of intelligent hardware and software device. Also i am member of robotic and control lab in the Shiraz university.
 
+Research interest:
+
+    Mobile robot
+
+    Control Theory: Robust, LPV
+
+    Intelligent control 
+
+    Machine learning 
+
 https://www.linkedin.com/in/mohammadsabouri
+
+https://sites.google.com/view/acrrl/team/current-members/mohammad-sabouri
 
 mohamadsabory@yahoo.com 
