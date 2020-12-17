@@ -8,6 +8,8 @@ on the manufacturing of intelligent hardware and software device. Also i am memb
 
 Research interest:
 
+    Robotic
+    
     Mobile robot
 
     Control Theory: Robust, LPV
