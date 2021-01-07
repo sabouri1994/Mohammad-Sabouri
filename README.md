@@ -28,7 +28,7 @@ https://sites.google.com/view/acrrl/team/current-members/mohammad-sabouri
 # Email
 --------------------------------
 
-* mohamadsabory@yahoo.com 
+
 
 * m.sabouri@shirazu.ac.ir
 
