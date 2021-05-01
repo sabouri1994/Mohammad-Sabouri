@@ -25,6 +25,8 @@ https://www.linkedin.com/in/mohammadsabouri
 
 https://sites.google.com/view/acrrl/team/current-members/mohammad-sabouri
 
+https://scholar.google.com/citations?user=uIEvSz4AAAAJ&hl=en
+
 # Email
 --------------------------------
 
