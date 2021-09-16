@@ -1,9 +1,9 @@
 # Mohammad Sabouri
 --------------------------------------------------------------------------
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sabouri1994)](https://github.com/sabouri1994/github-readme-stats)
+[![Mohammad's GitHub stats](https://github-readme-stats.vercel.app/api?username=sabouri1994)](https://github.com/sabouri1994/github-readme-stats)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sabouri1994&hide=contribs,prs)
+![Mohammad's GitHub stats](https://github-readme-stats.vercel.app/api?username=sabouri1994&hide=contribs,prs)
 
 
 
