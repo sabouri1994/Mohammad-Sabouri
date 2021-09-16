@@ -1,12 +1,12 @@
 # Mohammad Sabouri
 --------------------------------------------------------------------------
 
-(https://github-readme-stats.vercel.app/api?username=sabouri1994)](https://github.com/sabouri1994/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sabouri1994)](https://github.com/sabouri1994/github-readme-stats)
 
-(https://github-readme-stats.vercel.app/api?username=sabouri1994&hide=contribs,prs)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sabouri1994&hide=contribs,prs)
 
 
-[![Anurag's GitHub stats]
+
 
 I am student in filed of the master of control engineering in the Shiraz university. 
 My main research and work is about of robotics and control of complex systems. I focus on intelligent algorithms
