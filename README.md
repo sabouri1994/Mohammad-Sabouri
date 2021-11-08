@@ -7,7 +7,7 @@
 
 
 [![Last commit](https://img.shields.io/github/last-commit/sabouri1994/Mohammad-Sabouri.svg?maxAge=1800)](https://github.com/sabouri1994/Mohammad-Sabouri/commits/main)
-[![Stars](https://img.shields.io/github/stars/sabouri1994/Mohammad-Sabouri.svg)](#)<br>
+[![Stars](https://img.shields.io/github/stars/sabouri1994/Mohammad-Sabouri.svg)](#)<br><hr>
 [![Website](https://img.shields.io/badge/Linkedin-Sabouri-blue.svg)](https://www.linkedin.com/in/mohammadsabouri)
 
 I am student in filed of the master of control engineering in the Shiraz university. 
