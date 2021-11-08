@@ -6,6 +6,7 @@
 ![Mohammad's GitHub stats](https://github-readme-stats.vercel.app/api?username=sabouri1994&show_icons=true&count_private=true)
 
 
+[![Last commit](https://img.shields.io/github/last-commit/sabouri1994/Mohammad-Sabouri.svg?maxAge=1800)](https://github.com/sabouri1994/Mohammad-Sabouri/commits/main)
 
 
 I am student in filed of the master of control engineering in the Shiraz university. 
