@@ -8,7 +8,7 @@
 
 [![Last commit](https://img.shields.io/github/last-commit/sabouri1994/Mohammad-Sabouri.svg?maxAge=1800)](https://github.com/sabouri1994/Mohammad-Sabouri/commits/main)
 [![Stars](https://img.shields.io/github/stars/sabouri1994/Mohammad-Sabouri.svg)](#)
-[![Website](https://img.shields.io/badge/website-Sabouri-green.svg)](https://www.linkedin.com/in/mohammadsabouri)
+[![Website](https://img.shields.io/badge/Linkedin-Sabouri-Blue.svg)](https://www.linkedin.com/in/mohammadsabouri)
 
 I am student in filed of the master of control engineering in the Shiraz university. 
 My main research and work is about of robotics and control of complex systems. I focus on intelligent algorithms
