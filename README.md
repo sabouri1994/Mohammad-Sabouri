@@ -1,6 +1,7 @@
 # Mohammad Sabouri
 --------------------------------------------------------------------------
-
+<a href="https://github.com/sabouri1994/Mohammad-Sabouri"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sabouri1994&hide=java,html&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+</a>
 [![Mohammad's GitHub stats](https://github-readme-stats.vercel.app/api?username=sabouri1994)](https://github.com/sabouri1994/github-readme-stats)
 
 ![Mohammad's GitHub stats](https://github-readme-stats.vercel.app/api?username=sabouri1994&show_icons=true&count_private=false)
