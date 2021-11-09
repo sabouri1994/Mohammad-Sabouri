@@ -26,6 +26,8 @@ Here are some ideas to get you started:
 
 ![Mohammad's GitHub stats](https://github-readme-stats.vercel.app/api?username=sabouri1994&show_icons=true&count_private=false)
 
+[![Email](https://img.shields.io/badge/Email-m.sabouri@shirazu.ac.ir-blue.svg)](m.sabouri@shirazu.ac.ir)
+
 
 [![Last commit](https://img.shields.io/github/last-commit/sabouri1994/Mohammad-Sabouri.svg?maxAge=1800)](https://github.com/sabouri1994/Mohammad-Sabouri/commits/main)
 [![Stars](https://img.shields.io/github/stars/sabouri1994/Mohammad-Sabouri.svg)](#)<br><hr>
